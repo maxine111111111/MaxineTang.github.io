@@ -12,5 +12,7 @@ I am a soon-to-be graduate (end of 2024) from the [University of Manchester](htt
 
 I am very fortunate to be advised by [Dr.Fumie Costen](https://github.com/maxine111111111) from [School of Engineering](https://www.se.manchester.ac.uk) 
 
-You can find my CV here:[Maxine Tang's CV](assets/CV.doc)
+You can find my CV here:[Maxine Tang's CV](MaxineTang.github.io/assets
+/CV.doc)
+
 [Email](thy_swu@163.com)/[Github](https://github.com/maxine111111111)
